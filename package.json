@@ -1,0 +1,23 @@
+{
+  "name": "webpack-start",
+  "version": "1.0.0",
+  "description": "Simple webpack-based project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epoxid/webpack-start.git"
+  },
+  "keywords": [
+    "webpack",
+    "start"
+  ],
+  "author": "Roman Kovalev <epoxxid@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epoxid/webpack-start/issues"
+  },
+  "homepage": "https://github.com/epoxid/webpack-start#readme"
+}
